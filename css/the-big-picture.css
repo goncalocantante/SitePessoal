@@ -1,0 +1,42 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+
+body {
+  color: black;
+}
+
+.cover{
+  color: white;
+  height: 100vh;
+  background: url('/images/Barrel_BG.JPG') no-repeat 50% 80% fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+a{
+  color: white;
+}
+.navbar{
+  color: white;
+  background-color: #edc7b7;
+}
+.navbar-brand{
+  font-family: 'Lacquer'; 
+}
+
+h1{
+  font-family: 'Quicksand';
+}
+
+.picture:hover{
+  opacity: 0.7;
+}
+.about{
+  background-color: #EEE2DC;
+}
