@@ -12,7 +12,7 @@ body {
 .cover{
   color: white;
   height: 100vh;
-  background: url('/images/Barrel_BG.JPG') no-repeat 50% 80% fixed;
+  background: url("../images/Barrel_BG.jpg") no-repeat 50% 80% fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
