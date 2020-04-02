@@ -12,9 +12,9 @@ body {
 .cover{
   color: white;
   height: 100vh;
-  /* background: url("/images/Barrel_BG.JPG") no-repeat 50% 80% fixed; */
-  background: url("https://goncalocantante.github.io/SitePessoal/images/IMG_20190811_080349_I.png") no-repeat 50% 80% fixed;
+  background: url("../images/Barrel_BG.JPG") no-repeat 50% 80% fixed;
   -webkit-background-size: cover;
+  
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
